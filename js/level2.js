@@ -15,5 +15,5 @@ function back(){
     }else{
         localStorage.coin = parseInt(localStorage.coin) - 2;
     }
-    document.location.href = "../screens/menu.html";
+    document.location.href = "https://mml20.github.io/game_town.github.io/screens/menu.html";
 };
