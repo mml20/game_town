@@ -26,5 +26,5 @@ for (let i = 0; i < 10; i++) {
  }
  function back(){
     localStorage.coin = parseInt(localStorage.coin) + coin;
-    document.location.href = "../screens/menu.html";
+    document.location.href = "https://mml20.github.io/game_town.github.io/screens/menu.html";
 };
