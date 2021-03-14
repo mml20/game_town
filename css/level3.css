@@ -1,0 +1,34 @@
+body{
+    background: url('../img/bg.jpg') no-repeat;
+    background-size: cover;
+    text-align: center;
+    overflow: hidden;
+    margin: 0;
+}
+.map_bg{
+    width: 80%;
+    margin-top: 2%;
+}
+map{
+    width: 80%;
+    margin-top: 2%;
+}
+.rub{
+    position: absolute;
+    width: 30%;
+    margin-top: 8%;
+    margin-left: 6%;
+}
+a{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.back{
+    width: 20%;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}

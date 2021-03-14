@@ -1,0 +1,18 @@
+body{
+    background: url('../img/bg.jpg') no-repeat;
+    background-size: cover;
+    text-align: center;
+    overflow: hidden;
+    margin: 0;
+}
+.logo{
+    width: 60%;
+    margin-top: 9%;
+}
+.next{
+    width: 20%;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-bottom: 2%;
+}
